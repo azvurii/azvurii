@@ -1,3 +1,4 @@
+<h2 style="color: #44AEFB">💻 Profile </h2>
 ### Hey, I'm Adam Alshahwany 👋
 
 - 🔭 I’m currently working on FrontEnd Simplified.
@@ -6,7 +7,8 @@
 - 🤔 I’m looking for help with Cybersecurity Training.
 - 💬 Ask me about anything tech related
 - 📫 How to reach me: [@azvurii](https://www.instagram.com/azvurii/?hl=en) on all socials!
-- 🔵 **Discord**:  azvurii#0001
+- 🔵 **Discord**: azvurii#️⃣0001
+
 <div align="center">
 
 [Email Me](mailto:adamabraar@gmail.com)
