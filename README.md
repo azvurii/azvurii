@@ -7,6 +7,6 @@
 - 💬 Ask me about anything tech related
 - 📫 How to reach me: [@azvurii](https://www.instagram.com/azvurii/?hl=en) on all socials!
 - 🔵 **Discord**:  azvurii#0001
-
+-------------------------------
 
 <img src="https://github-readme-stats.vercel.app/api?username=azvurii&&show_icons=true&title_color=ffffff&icon_color=e10600&text_color=daf7dc&bg_color=191918">
