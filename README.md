@@ -65,7 +65,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=azvurii&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azvurii&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
