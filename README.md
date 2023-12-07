@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on Software.
 - 🤔 I’m looking for help with Cybersecurity Training.
 - 💬 Ask me about anything tech related
-- 📫 How to reach me: [@azvurii](https://www.instagram.com/azvurii/?hl=en) on all socials!
-- 🔵 **Discord**: azvurii#️⃣0001
+- 📫 How to reach me: [@adamalshahwany](https://www.instagram.com/adamalshahwany/?hl=en) on all socials!
+- 🔵 **Discord**: adamalshahwany
 
 <div align="center">
 
