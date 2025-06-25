@@ -1,13 +1,8 @@
 <h2 style="color: #44AEFB">💻 Profile </h2>
-### Hey, I'm Adam Alshahwany 👋
+### Hey, I'm Adam 👋
+comp eng - ai infrastructure
 
-- 🔭 I’m currently working on FrontEnd Simplified.
-- 🌱 I’m currently learning HTML, CSS, Java, etc.
-- 👯 I’m looking to collaborate on Software.
-- 🤔 I’m looking for help with Cybersecurity Training.
-- 💬 Ask me about anything tech related
-- 📫 How to reach me: [@adamalshahwany](https://www.instagram.com/adamalshahwany/?hl=en) on all socials!
-- 🔵 **Discord**: adamalshahwany
+all thse stats are old frm 2021== were locked in allhamdulilah 
 
 <div align="center">
 
